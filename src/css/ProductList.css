@@ -1,0 +1,12 @@
+.product-list {
+    padding: 10px 30px;
+}
+.product-card td {
+    width: 25%;
+}
+.product-table {
+    border: 1px solid black;
+}
+.table-head th {
+    padding: 15px 0px;
+}
